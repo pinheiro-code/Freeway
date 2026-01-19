@@ -51,7 +51,7 @@ O objetivo é atravessar as pistas repletas de carros antes que o tempo acabe, s
 ## ▶️ Como Rodar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/pinheiro-code/freeway-game.git
+   git clone https://github.com/pinheiro-code/Freeway.git
 2. Abra a pasta no Godot Engine.
 4. Clique em Run ▶️ para jogar.
 
